@@ -1,0 +1,76 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "newList",
+      "functionName": "newList"
+    }, {
+      "menuName": "res",
+      "functionName": "res"
+    }, {
+      "menuName": "cvet",
+      "functionName": "cvet"
+    }, {
+      "menuName": "newss",
+      "functionName": "newss"
+    }, {
+      "menuName": "s",
+      "functionName": "s"
+    }, {
+      "menuName": "borderq",
+      "functionName": "borderq"
+    }, {
+      "menuName": "del",
+      "functionName": "del"
+    }, {
+      "menuName": "ids",
+      "functionName": "ids"
+    }, {
+      "menuName": "runOnce",
+      "functionName": "runOnce"
+    }, {
+      "menuName": "Новый макрос",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Новый макрос",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "correctFormat",
+      "functionName": "correctFormat"
+    }, {
+      "menuName": "deleteAllll",
+      "functionName": "deleteAllll"
+    }, {
+      "menuName": "itera",
+      "functionName": "itera"
+    }, {
+      "menuName": "saveAll",
+      "functionName": "saveAll"
+    }, {
+      "menuName": "rightup",
+      "functionName": "rightup"
+    }, {
+      "menuName": "vert",
+      "functionName": "vert"
+    }, {
+      "menuName": "cop",
+      "functionName": "cop"
+    }, {
+      "menuName": "Новый макрос",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Новый макрос 1",
+      "functionName": "myFunction1"
+    }, {
+      "menuName": "Новый макрос 2",
+      "functionName": "myFunction2"
+    }, {
+      "menuName": "Новый макрос 3",
+      "functionName": "myFunction3"
+    }]
+  }
+}

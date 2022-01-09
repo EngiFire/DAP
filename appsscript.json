@@ -71,6 +71,12 @@
     }, {
       "menuName": "Новый макрос 3",
       "functionName": "myFunction3"
+    }, {
+      "menuName": "mr",
+      "functionName": "mr"
+    }, {
+      "menuName": "a",
+      "functionName": "a"
     }]
   }
 }
